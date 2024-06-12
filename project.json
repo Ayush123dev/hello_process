@@ -1,6 +1,6 @@
 {
-  "name": "Testing_2",
-  "projectId": "91ad02fe-1a98-4c08-a4c3-cd99dd7d5c2f",
+  "name": "Automation_Ops_Testing",
+  "projectId": "97c3f0e0-83b9-4da6-96db-176ae42e5d4d",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.2.1.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "e10db84e-ade9-40c6-aed2-eea20bc8c3b9",
+      "uniqueId": "d20bcd7c-9a8b-4e78-8f32-06f477de2ff4",
       "input": [],
       "output": []
     }
